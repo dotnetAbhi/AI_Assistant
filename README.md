@@ -11,4 +11,4 @@ This project demonstrates the use of Python automation, speech recognition, and 
 👨‍💻 Beginner-friendly implementation
 🛠️ Tech Stack
 
-Basic AI & NLP concepts
+Basic AI & NLP concepts 
